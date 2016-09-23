@@ -1,0 +1,2 @@
+# isBinary
+Pythonでバイナリ判定
